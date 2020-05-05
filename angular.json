@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tedushop-angular2"
+    }
+  },
+  "defaultProject": "tedushop-angular2",
+  "cli": {
+    "analytics": "ac02eb96-231d-43a5-a239-972272dbfd62"
+  }
 }
