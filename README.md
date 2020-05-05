@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TedushopAngular2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
@@ -29,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # tedushop-angular2
 .NET MVC and Angular 2
->>>>>>> 8c36a1ba046e035cd4f67803828e707e5665e062
